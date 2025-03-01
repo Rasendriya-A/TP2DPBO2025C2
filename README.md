@@ -34,7 +34,7 @@ lalu untuk bahasa PHP ada atribut tambahan yaitu :
 
 <h3 align="left">Alur Program</h3>
 <strong> 1. Mengisi Data Baju Secara Statis </strong><br>
-Program dimulai dengan meminta input jumlah produk tambahan yang akan dimasukkan. Selanjutnya, lima produk pakaian hewan dimasukkan secara statis ke dalam array Matahari menggunakan konstruktor Baju. <br>
+Program dimulai dengan meminta input jumlah produk tambahan yang akan dimasukkan. Selanjutnya, lima produk pakaian hewan dimasukkan secara statis ke dalam array Matahari menggunakan konstruktor Baju. <br><br>
 
 <strong> 2. Mengisi Data Baju Secara Dinamis </strong><br>
 Pengguna diberikan kesempatan untuk memasukkan data tambahan sesuai jumlah yang telah diinputkan. Data ini kemudian disimpan dalam array Matahari dengan indeks mulai dari 5 hingga n + 5. <br>
