@@ -4,7 +4,7 @@
 Saya Rasendriya Andhika dengan NIM 2305309 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 <h3 align="left">Diagram</h3>
-![TP2DPBO2025 drawio](https://github.com/user-attachments/assets/14391b95-8a3b-4f5c-a017-2a3aaf1f9869)
+<img width="795" alt="C++1" src="https://github.com/user-attachments/assets/14391b95-8a3b-4f5c-a017-2a3aaf1f9869" /> <br>
 
 <h3 align="left">Desain Program</h3>
 Program terdiri dari 3 class yaitu PetShop, Aksesoris, dan Baju <br>
