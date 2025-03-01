@@ -7,7 +7,7 @@ Saya Rasendriya Andhika dengan NIM 2305309 mengerjakan Tugas Praktikum 2 dalam m
 <img width="795" alt="C++1" src="https://github.com/user-attachments/assets/14391b95-8a3b-4f5c-a017-2a3aaf1f9869" /> <br>
 
 <h3 align="left">Desain Program</h3>
-Program terdiri dari 3 class yaitu PetShop, Aksesoris, dan Baju <br>
+Program terdiri dari 3 class yaitu PetShop, Aksesoris, dan Baju . Class Baju adalah child dari class Aksesoris. Dan class Aksesoris adalah child dari class Petshop<br>
 Didalam class PetShop memiliki 4 Atribut, yaitu :
 <ul>
    <li>Id</li>
@@ -33,13 +33,13 @@ lalu untuk bahasa PHP ada atribut tambahan yaitu :
 </ul>
 
 <h3 align="left">Alur Program</h3>
-<strong> 1. Mengisi Data Baju Secara Statis </strong>
+<strong> 1. Mengisi Data Baju Secara Statis </strong><br>
 Program dimulai dengan meminta input jumlah produk tambahan yang akan dimasukkan. Selanjutnya, lima produk pakaian hewan dimasukkan secara statis ke dalam array Matahari menggunakan konstruktor Baju. <br>
 
-<strong> 2. Mengisi Data Baju Secara Dinamis </strong>
+<strong> 2. Mengisi Data Baju Secara Dinamis </strong><br>
 Pengguna diberikan kesempatan untuk memasukkan data tambahan sesuai jumlah yang telah diinputkan. Data ini kemudian disimpan dalam array Matahari dengan indeks mulai dari 5 hingga n + 5. <br>
 
-<strong> 3. Menentukan Panjang Maksimal Setiap Atribut </strong>
+<strong> 3. Menentukan Panjang Maksimal Setiap Atribut </strong><br>
 Program melakukan iterasi terhadap seluruh objek Baju dalam array Matahari untuk mencari panjang maksimal setiap atribut (seperti Id, NamaProduk, KategoriProduk, dll.). Ini dilakukan agar tampilan tabel bisa rapi sesuai dengan data terpanjang dalam setiap kolom. <br>
 
 <strong> 4. Membuat dan Menampilkan Header Tabel </strong>
@@ -54,7 +54,7 @@ Program melakukan iterasi terhadap seluruh objek Baju dalam array Matahari untuk
    <li>Setiap nilai atribut disesuaikan dengan lebar maksimal yang telah ditentukan sebelumnya untuk menjaga kerapihan tabel.</li>
 </ul>
 
-<strong> 6. Membuat Batas Bawah Tabel </strong>
+<strong> 6. Membuat Batas Bawah Tabel </strong><br>
 Setelah semua data dicetak, program membuat batas bawah tabel menggunakan pola yang sama seperti batas atas untuk mengakhiri tampilan tabel. <br>
 
 <h3 align="left">Dokumentasi</h3>
