@@ -1,0 +1,6 @@
+5
+B006 Kaos_Kucing Pakaian_Hewan 65000 Kaos Katun Putih Kucing S MeowStyle
+B007 Jaket_Anjing Pakaian_Hewan 95000 Jaket Wol Hitam Anjing M PawBrand
+B008 Sweater_Kucing Pakaian_Hewan 85000 Sweater Fleece Biru Kucing L KittyFashion
+B009 Hoodie_Kucing Pakaian_Hewan 100000 Hoodie Poliester Merah Kucing XL CatSwag
+B010 Rompi_Anjing Pakaian_Hewan 70000 Rompi Denim Abu-Abu Anjing S DogStyle
